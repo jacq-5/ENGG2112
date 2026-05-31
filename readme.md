@@ -1,4 +1,4 @@
-# ML Model Testing Repository
+# ENGG2112-ML Model Testing Repository
 
 This repository contains all the code used to test and evaluate multiple machine learning models, including Decision Trees, Random Forests, and other classification/regression algorithms.
 
