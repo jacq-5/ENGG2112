@@ -25,6 +25,7 @@ The following models were tested the following models:
 - K-Nearest Neighbors
 - Naive Bayes
 - Gradient Boosting models
+- AdaBoost
 - Dummy Baseline 
 
 ## Prerequisites
